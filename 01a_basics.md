@@ -3,7 +3,7 @@ A **language** can be natural, a computer language or mathematical statements.
 - mathematically defined as a *set of strings* which are meaningful
 - languages can be *processed*
 
-See [[01b_words#Definitions|here]] for a formal definition.
+See [[02_languages#Definition|here]] for a formal definition.
 
 <br>
 
@@ -13,7 +13,7 @@ A compiler processes a Turing-complete programming language (**source code**) an
 ## Compilation Process
 characters
 
-&nbsp;  &nbsp;**lexical analysis**
+&nbsp;  &nbsp;**lexical analysis** (see [[02_lexical_analyzers]])
  
 tokens (~= words)
 

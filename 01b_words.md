@@ -1,3 +1,4 @@
+#math
 # Definitions
 An **alphabet** $A$ is a finite non-empty set of letters
 
