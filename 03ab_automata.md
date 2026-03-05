@@ -58,5 +58,6 @@ Finite automata are limited by their finiteness, as they for example cannot coun
 If a string is too long, a DFA will repeat its behavior at some point. This is formalised by the **pumping lemma**:
 
 If $L$ is a regular language, then there is a positive integer $p$ called the *pumping length*, such that every string $s \in L$, whose length is longer than $p$, can be partitioned into three pieces $s = x\, y\, z$, such that $x\, y^i z \in L \ \forall i \geq 0$, i.e. part $y$ can be repeated infinitely many times.
+In addition, $|xy| \leq p$ and $|y| \geq 1$.
 
 Because of these limitations we might prefer to use [[03b_grammars#Definition|grammars]] instead.
