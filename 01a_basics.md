@@ -13,7 +13,7 @@ A compiler processes a Turing-complete programming language (**source code**) an
 ## Compilation Process
 characters
 
-&nbsp;  &nbsp;**lexical analysis** (see [[02_lexical_analyzers]])
+&nbsp;  &nbsp;**lexical analysis**
  
 tokens (~= words)
 
