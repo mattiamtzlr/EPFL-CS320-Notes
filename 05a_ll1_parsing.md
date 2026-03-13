@@ -12,7 +12,7 @@ The *rough idea* is that we transform a rule where the RHS has multiple alternat
 
 **Remark**: by first element, we mean the '$\text{first}$' *predicate* defined on grammars as
 $$\text{first}(B_1 ... B_p) = \{a \in \Sigma \ | \ B_1 ... B_p \ \Rightarrow\ \ ... \ \Rightarrow \ aw\}$$
-for some word $w$, meaning it is possible to [[04_grammar_derivation|derive]] the sequence $B_1 ... B_p$ to $aw$.
+for some word $w$, meaning it is possible to [[04a_grammar_derivation|derive]] the sequence $B_1 ... B_p$ to $aw$.
 The first elements for each case should be distinct sets of tokens.
 
 <br>

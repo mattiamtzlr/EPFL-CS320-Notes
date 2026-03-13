@@ -1,7 +1,7 @@
 #implementation
 
 # Name Analysis
-A **name analyser** takes in the AST from the [[05_ll1_parsing|parser]] and adds mappings between variables and declarations.
+A **name analyser** takes in the AST from the [[05a_ll1_parsing|parser]] and adds mappings between variables and declarations.
 It throws *unknown identifier* errors if it finds a variable name which has no declaration.
 
 In addition, name analysis can report for example:

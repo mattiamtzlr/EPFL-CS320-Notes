@@ -21,4 +21,4 @@ We can describe a [[03b_grammars|context-free grammar]] using inductively define
 **Example**:
 ![[cfg_to_idr.png]]
 
-A [[04_grammar_derivation|derivation tree]] of the grammar then has nodes marked by tuples $t(\mathbf a)$ where $\mathbf x$ has taken some specific value $\mathbf a$. We then define the relation $r$ as the set of all tuples for which there exists a *derivation tree*.
+A [[04a_grammar_derivation|derivation tree]] of the grammar then has nodes marked by tuples $t(\mathbf a)$ where $\mathbf x$ has taken some specific value $\mathbf a$. We then define the relation $r$ as the set of all tuples for which there exists a *derivation tree*.
